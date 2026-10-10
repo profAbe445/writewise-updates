@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "file": "WriteWise-Setup-1.2.0.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.0.exe",
-  "sha256": "695b3737e3387b28dcfa2ec23a225219e99f439459c565c58abfd6594fd15cd2",
-  "size": 15679037,
-  "notes": "Automatic updates, built-in paraphrasing/tone/summaries with no API key, and more reliable grammar checks on long documents.",
-  "published": "2026-10-10T20:41:43.165Z",
-  "signature": "ZsrWjOGVCrlk7uxLDJacIeGlvONousPT1diNjgF9LG4fViHez4rAVDRKI4jEy5YSZMcF5nAF7sUAUfUb/0XNBw=="
+  "version": "1.2.1",
+  "file": "WriteWise-Setup-1.2.1.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.1.exe",
+  "sha256": "f336cc8cb34a8579a3b88cf6ad161e50a10e788f9b091584430b11fd67f9df30",
+  "size": 15677502,
+  "notes": "Test of automatic updates. Shows the installed version in Settings → Updates.",
+  "published": "2026-10-10T20:44:28.479Z",
+  "signature": "qxYTc5g4XO+e4azAonB2bhst5jkLEmcLPyH5973g8zW093VmMfu1ysHZqouXQ6hNuh4plB5JwAaMdzYhZD5pAQ=="
 }
