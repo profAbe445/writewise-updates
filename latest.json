@@ -1,10 +1,10 @@
 {
-  "version": "1.2.3",
-  "file": "WriteWise-Setup-1.2.3.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.3.exe",
-  "sha256": "719d211bb07229705c59035e4cadc682f40cd2f9fed0789d83bb7243eab908d6",
-  "size": 15678869,
-  "notes": "Maintenance release (automatic update test).",
-  "published": "2026-10-10T22:09:19.339Z",
-  "signature": "EFYuRYNdN4eW2r3n89A0ycpd04d249D7IajLgOX7NsVSjZK627tYbnKuqWL3STHsZHPVj19NQMSy/ofw2IidCQ=="
+  "version": "1.2.4",
+  "file": "WriteWise-Setup-1.2.4.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.4.exe",
+  "sha256": "6bdc2369fd51b72634016b0dfb563ca03b101b7e2471524980acf00afd2dc0a9",
+  "size": 15689397,
+  "notes": "Faster detection of new versions (update checks use the GitHub API instead of a cached file).",
+  "published": "2026-10-10T22:13:27.468Z",
+  "signature": "QHGRCQj5VImFs4b/RjPA1EZqt/mbcTp2EnTpX9noVaTQrlF++2ijw/g5OIYh8bNTomr9Vn+GKfKXT9kX/Bk2AA=="
 }
