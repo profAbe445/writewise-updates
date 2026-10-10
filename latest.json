@@ -1,10 +1,10 @@
 {
-  "version": "1.2.1",
-  "file": "WriteWise-Setup-1.2.1.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.1.exe",
-  "sha256": "f336cc8cb34a8579a3b88cf6ad161e50a10e788f9b091584430b11fd67f9df30",
-  "size": 15677502,
-  "notes": "Test of automatic updates. Shows the installed version in Settings → Updates.",
-  "published": "2026-10-10T20:44:28.479Z",
-  "signature": "qxYTc5g4XO+e4azAonB2bhst5jkLEmcLPyH5973g8zW093VmMfu1ysHZqouXQ6hNuh4plB5JwAaMdzYhZD5pAQ=="
+  "version": "1.2.2",
+  "file": "WriteWise-Setup-1.2.2.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.2.exe",
+  "sha256": "5627cacade08cdf5c7f842c480577605204c993fdfcb034428992b6893512545",
+  "size": 15678437,
+  "notes": "Reliable automatic updates on slow connections: downloads resume, then install silently in the background.",
+  "published": "2026-10-10T20:56:39.314Z",
+  "signature": "mtZPneyOsDGzlqotYhZZuWeFVYWsgdzlxIxmE0nkJg/GnA0Wfe5CKnPjesyk/9YbxBqhBYp1uq9X71PJeGABCQ=="
 }
