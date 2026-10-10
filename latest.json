@@ -1,10 +1,10 @@
 {
-  "version": "1.2.4",
-  "file": "WriteWise-Setup-1.2.4.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.4.exe",
-  "sha256": "6bdc2369fd51b72634016b0dfb563ca03b101b7e2471524980acf00afd2dc0a9",
-  "size": 15689397,
-  "notes": "Faster detection of new versions (update checks use the GitHub API instead of a cached file).",
-  "published": "2026-10-10T22:13:27.468Z",
-  "signature": "QHGRCQj5VImFs4b/RjPA1EZqt/mbcTp2EnTpX9noVaTQrlF++2ijw/g5OIYh8bNTomr9Vn+GKfKXT9kX/Bk2AA=="
+  "version": "1.2.5",
+  "file": "WriteWise-Setup-1.2.5.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.5.exe",
+  "sha256": "21e8e2c9d9662eadf645e0a5245faec06cdf7c4e73cc1749c5005012034f8591",
+  "size": 15690307,
+  "notes": "Adds \"Open WriteWise in Word\" (loads the panel even when Word's Add-ins menu doesn't list it); cleaner start-up and update clean-up.",
+  "published": "2026-10-10T23:48:44.026Z",
+  "signature": "e1TJKNhdztQa+r5GBf008leQybkVmrSNXNXL/Ksvlp6FDqNgXTjLPOl0BbOeO+I9YupfFas0MrKiiAxXkGpDCw=="
 }
