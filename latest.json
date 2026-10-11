@@ -1,10 +1,10 @@
 {
-  "version": "1.2.6",
-  "file": "WriteWise-Setup-1.2.6.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.2.6.exe",
-  "sha256": "0ff751da804c0221e5f90030e67eff239696b363aebc82587402430127c21b8e",
-  "size": 15692003,
-  "notes": "Installer never downgrades a newer version; adds \"Open WriteWise in Word\"; cleaner start-up and update clean-up.",
-  "published": "2026-10-11T11:56:56.721Z",
-  "signature": "rj9xhGKH/Ipe7E9CS3WwzVRnTqGg5zRFP4Fjn7jbwVPAFI3CYiBtodLAx48W9huE7jmZtsUpYpvRjANlzTTWBQ=="
+  "version": "1.3.0",
+  "file": "WriteWise-Setup-1.3.0.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.3.0.exe",
+  "sha256": "4578c21170faf75deea45110793f1550c08fed40c1a524bb2322e2bbdaaa1aa6",
+  "size": 15700515,
+  "notes": "Free AI engines for much better Paraphrase, Tone, Summarize and Polish: Ollama (on your computer), Groq, Google Gemini and OpenRouter, with the built-in engine as fallback.",
+  "published": "2026-10-11T12:10:17.200Z",
+  "signature": "660f1ZfRGQBZVGOs1f+rtv+yFoT3mF9/aL4YKcE1eL8cNYuTFP1GhvV7OMWTX0nZw4whUsVI8LmcXoywsA9FDg=="
 }
