@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
-  "file": "WriteWise-Setup-2.0.0.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-2.0.0.exe",
-  "sha256": "b6061caddbe914de25d98daab1233c6abe10c4eb7df54864f4954a377de6d484",
-  "size": 15739426,
-  "notes": "WriteWise 2.0: free offline AI set up automatically (no key), Deep check with full-sentence rewrites, Delivery and Consistency checks, style guide, Humanize/Expand/Custom paraphrase modes, AI Write (rewrite, compose, translate, summarize), Academic tools (language feedback, Academizer, titles, abstracts, sentence palette, language search), citation generator and finder, AI detector and similarity check.",
-  "published": "2026-10-17T19:50:18.672Z",
-  "signature": "Fim/hspU1hPmruJId/UkteaSJZ8SrVxxhDU3V1v7Q6w6jLwCjkQstge4SqV52k7YUsf29S/DVRXPTth738McCQ=="
+  "version": "2.1.1",
+  "file": "WriteWise-Setup-2.1.1.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-2.1.1.exe",
+  "sha256": "77703cfd4e23cc9d3bfc98e14a4a37d7c8ba0242e9ace4117eee395c04628f02",
+  "size": 15965041,
+  "notes": "WriteWise 2.1: WriteWise is now a permanent part of Word (Home tab and right-click menu) on every Office copy, opening its panel inside Word; starts with Windows without a script launcher. 2.1.1: wider panel, keeps spacing when replacing a sentence.",
+  "published": "2026-10-17T21:05:51.651Z",
+  "signature": "1YK+khKk4JlASa1lgPbHEGsx9G/TmK9Opa6e/uPzTnKOmpaa2kQ+3WCK85iY5e3Yj/CxaaJeJ08TUpUf2eaXAg=="
 }
