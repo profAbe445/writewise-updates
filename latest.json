@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
-  "file": "WriteWise-Setup-1.3.0.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-1.3.0.exe",
-  "sha256": "4578c21170faf75deea45110793f1550c08fed40c1a524bb2322e2bbdaaa1aa6",
-  "size": 15700515,
-  "notes": "Free AI engines for much better Paraphrase, Tone, Summarize and Polish: Ollama (on your computer), Groq, Google Gemini and OpenRouter, with the built-in engine as fallback.",
-  "published": "2026-10-11T12:10:17.200Z",
-  "signature": "660f1ZfRGQBZVGOs1f+rtv+yFoT3mF9/aL4YKcE1eL8cNYuTFP1GhvV7OMWTX0nZw4whUsVI8LmcXoywsA9FDg=="
+  "version": "2.0.0",
+  "file": "WriteWise-Setup-2.0.0.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-2.0.0.exe",
+  "sha256": "b6061caddbe914de25d98daab1233c6abe10c4eb7df54864f4954a377de6d484",
+  "size": 15739426,
+  "notes": "WriteWise 2.0: free offline AI set up automatically (no key), Deep check with full-sentence rewrites, Delivery and Consistency checks, style guide, Humanize/Expand/Custom paraphrase modes, AI Write (rewrite, compose, translate, summarize), Academic tools (language feedback, Academizer, titles, abstracts, sentence palette, language search), citation generator and finder, AI detector and similarity check.",
+  "published": "2026-10-17T19:50:18.672Z",
+  "signature": "Fim/hspU1hPmruJId/UkteaSJZ8SrVxxhDU3V1v7Q6w6jLwCjkQstge4SqV52k7YUsf29S/DVRXPTth738McCQ=="
 }
