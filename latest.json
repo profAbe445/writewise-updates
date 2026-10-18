@@ -1,10 +1,10 @@
 {
-  "version": "2.1.1",
-  "file": "WriteWise-Setup-2.1.1.exe",
-  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-2.1.1.exe",
-  "sha256": "77703cfd4e23cc9d3bfc98e14a4a37d7c8ba0242e9ace4117eee395c04628f02",
-  "size": 15965041,
-  "notes": "WriteWise 2.1: WriteWise is now a permanent part of Word (Home tab and right-click menu) on every Office copy, opening its panel inside Word; starts with Windows without a script launcher. 2.1.1: wider panel, keeps spacing when replacing a sentence.",
-  "published": "2026-10-17T21:05:51.651Z",
-  "signature": "1YK+khKk4JlASa1lgPbHEGsx9G/TmK9Opa6e/uPzTnKOmpaa2kQ+3WCK85iY5e3Yj/CxaaJeJ08TUpUf2eaXAg=="
+  "version": "2.1.2",
+  "file": "WriteWise-Setup-2.1.2.exe",
+  "url": "https://raw.githubusercontent.com/profAbe445/writewise-updates/main/releases/WriteWise-Setup-2.1.2.exe",
+  "sha256": "0734700ad40c1462f8f11f6e854f0154edfa931476cc87fc612fb9e973c47a45",
+  "size": 15966633,
+  "notes": "WriteWise 2.1: a permanent part of Word (Home tab and right-click menu) on every Office copy. 2.1.2: fixes the panel showing a WebView2 error when a second document opens WriteWise.",
+  "published": "2026-10-18T06:22:50.881Z",
+  "signature": "8fvv9pGHRtUn2a1Y+mtDDjMoxi8KM45dyUPCcOZ1lDVJ3blDuKwpnJMSJXIZkWxpmGA0zbHgJi5omdcfnKn2Ag=="
 }
